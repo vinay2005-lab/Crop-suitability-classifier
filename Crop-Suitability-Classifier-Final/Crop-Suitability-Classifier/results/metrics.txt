@@ -1,0 +1,5 @@
+Selected model: Decision Tree
+Accuracy: 0.9795
+Macro Precision: 0.9810
+Macro Recall: 0.9795
+Macro F1: 0.9794

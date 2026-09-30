@@ -1,0 +1,45 @@
+{
+  "selected_model": "Decision Tree",
+  "metrics": {
+    "accuracy": 0.9795454545454545,
+    "precision": 0.9810114128295947,
+    "recall": 0.9795454545454544,
+    "f1": 0.9794117592577155
+  },
+  "dataset_rows": 2200,
+  "dataset_columns": [
+    "N",
+    "P",
+    "K",
+    "temperature",
+    "humidity",
+    "ph",
+    "rainfall",
+    "label"
+  ],
+  "classes": [
+    "apple",
+    "banana",
+    "blackgram",
+    "chickpea",
+    "coconut",
+    "coffee",
+    "cotton",
+    "grapes",
+    "jute",
+    "kidneybeans",
+    "lentil",
+    "maize",
+    "mango",
+    "mothbeans",
+    "mungbean",
+    "muskmelon",
+    "orange",
+    "papaya",
+    "pigeonpeas",
+    "pomegranate",
+    "rice",
+    "watermelon"
+  ],
+  "duplicates_removed": 0
+}
